@@ -32,7 +32,7 @@ heck = "0.4.0"
 zip = { version = "0.6.2", default-features = false }
 parity-wasm = "0.45.0"
 cargo_metadata = "0.15.0"
-scale = { package = "parity-scale-codec", version = "3.0.0", features = ["derive"] }
+scale = { package = "parity-scale-codec", version = "3.2.1", features = ["derive"] }
 which = "4.2.5"
 colored = "2.0.0"
 toml = "0.5.9"
